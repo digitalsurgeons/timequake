@@ -1,6 +1,6 @@
 {
   "name": "timequake",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Uses the time altering properties of Streams to search npm.",
   "main": "index.js",
   "scripts": {
