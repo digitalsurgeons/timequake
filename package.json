@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["npm", "streams", "search", "fast", "timequake"],
+  "keywords": [
+    "npm",
+    "streams",
+    "search",
+    "fast",
+    "timequake"
+  ],
   "author": "Aaron M. Shea",
   "license": "MIT",
   "dependencies": {
@@ -16,5 +22,14 @@
   },
   "bin": {
     "timequake": "main.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsurgeons/timequake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dsurgeons/timequake/issues"
+  },
+  "homepage": "https://github.com/dsurgeons/timequake#readme"
 }
