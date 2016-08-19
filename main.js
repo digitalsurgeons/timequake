@@ -11,7 +11,7 @@ const CACHE_FILE_PATH = os.tmpdir() + '/timequake-cache';
 
 if (!keyword)
 {
-	console.log('ERROR: Please specify a destiation to search for (a keyword)');
+	console.log('ERROR: Please specify a destination to search for (a keyword)');
 	console.log('\tUsage: timequake [keyword]');
 	process.exit(1);
 }
